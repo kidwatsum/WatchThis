@@ -1,0 +1,13 @@
+notes od slave:
+pozadinata da e nekoja slika so temen overlay!
+-exclude genres da se trgni i da se klaj i da se klat vo genres?
+-mozi kako animacija da se napraj kako pop up da se napraj filtrite!
+ko ke se klikni i ko ke se pushtat filtrite se vrajkat nazad i gledat filmojhte
+-sekogas use effect poseben hook
+-sx{
+  '&:hover': {}
+}
+
+.element:hover {}
+Sekoja komponenta da ima 1 do 2 max funkcii, ako mozhi posebna komponenta da se napraj, da se napraj
+ne se vo edno

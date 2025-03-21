@@ -1,0 +1,71 @@
+Color palette:
+ Dark Mode with Neon Accents (Futuristic/Techy)
+Primary: #0D7377 (Teal)
+Secondary: #32E0C4 (Neon Cyan)
+Background: #212121 (Dark Gray)
+Text: #EEEEEE (White)
+
+✨ Use case: Night mode apps, gaming UIs, tech startups.
+const theme = createTheme({
+  palette: {
+    mode: 'dark',
+    primary: { main: '#0D7377' },
+    secondary: { main: '#32E0C4' },
+    background: { default: '#212121' },
+    text: { primary: '#EEEEEE' },
+  },
+});
+Tech stack i will be using:
+im making the frontend with react and mui and the backend will be with spring boot and mongoDb and 
+some scripting with python 
+
+Main idea:
+The user will have a login where he see the movies/series he already watched,movies/series that 
+he wants to watch,and some achievments that i will make an achievement system for.
+Next on the home page the user can choose between series and movies,and he can find a series or a movie
+that he wants by searching or he can let us find a movie or a series for him depending on his prefer
+ences and the things he chooses for the movie.
+
+Achievement  based system:
+Possible Achievement Ideas for Your App
+Here are some achievement ideas you could consider implementing:
+
+Watch Milestones
+
+Watch your first movie/series
+Watch 10 movies/series
+Watch 100 movies/series
+Genre Exploration
+
+Watch a movie from each genre (Action, Comedy, Drama, Horror, etc.)
+Watch 5 movies from a specific genre
+Completionist Achievements
+
+Watch every episode of a series
+Finish a movie marathon (e.g., a trilogy or series of related films)
+Rating & Reviewing
+
+Rate 10 movies/series
+Write your first review
+Write reviews for 5 movies/series
+Themed Challenges
+
+Watch movies from a specific year (e.g., movies from the 80s or 90s)
+Watch a film that has won an Oscar
+Watch Streaks
+
+Watch a movie/series every day for a week
+Watch movies on consecutive days for a month
+User Interaction
+
+Create a watchlist
+Share a movie/series recommendation
+Follow 5 users or 10 movie/series recommendations
+Special/Seasonal Achievements
+
+Watch a Halloween movie during October (seasonal achievements)
+Watch a recommended "Best of the Year" movie/series
+Rare Achievements
+
+Watch an obscure or niche movie that has fewer ratings or attention
+Complete a hidden "Easter egg" challenge related to a specific theme or director
